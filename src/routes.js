@@ -10,7 +10,8 @@ const Routes = createAppContainer(
     Main:{
       screen: Main,
       navigationOptions:{
-        title: 'DevRadar'
+        title: 'Radarzito',
+        headerTitleAlign: 'center',
       }
     },
     Profile:{
